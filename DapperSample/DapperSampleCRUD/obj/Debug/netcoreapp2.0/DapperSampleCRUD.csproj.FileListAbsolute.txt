@@ -1,0 +1,11 @@
+D:\Projetos\GitHub\aspnetcore-dapper\DapperSample\DapperSampleCRUD\bin\Debug\netcoreapp2.0\DapperSampleCRUD.deps.json
+D:\Projetos\GitHub\aspnetcore-dapper\DapperSample\DapperSampleCRUD\bin\Debug\netcoreapp2.0\DapperSampleCRUD.runtimeconfig.json
+D:\Projetos\GitHub\aspnetcore-dapper\DapperSample\DapperSampleCRUD\bin\Debug\netcoreapp2.0\DapperSampleCRUD.runtimeconfig.dev.json
+D:\Projetos\GitHub\aspnetcore-dapper\DapperSample\DapperSampleCRUD\bin\Debug\netcoreapp2.0\DapperSampleCRUD.dll
+D:\Projetos\GitHub\aspnetcore-dapper\DapperSample\DapperSampleCRUD\obj\Debug\netcoreapp2.0\DapperSampleCRUD.csprojResolveAssemblyReference.cache
+D:\Projetos\GitHub\aspnetcore-dapper\DapperSample\DapperSampleCRUD\obj\Debug\netcoreapp2.0\DapperSampleCRUD.csproj.CoreCompileInputs.cache
+D:\Projetos\GitHub\aspnetcore-dapper\DapperSample\DapperSampleCRUD\obj\Debug\netcoreapp2.0\DapperSampleCRUD.AssemblyInfoInputs.cache
+D:\Projetos\GitHub\aspnetcore-dapper\DapperSample\DapperSampleCRUD\obj\Debug\netcoreapp2.0\DapperSampleCRUD.AssemblyInfo.cs
+D:\Projetos\GitHub\aspnetcore-dapper\DapperSample\DapperSampleCRUD\bin\Debug\netcoreapp2.0\DapperSampleCRUD.pdb
+D:\Projetos\GitHub\aspnetcore-dapper\DapperSample\DapperSampleCRUD\obj\Debug\netcoreapp2.0\DapperSampleCRUD.dll
+D:\Projetos\GitHub\aspnetcore-dapper\DapperSample\DapperSampleCRUD\obj\Debug\netcoreapp2.0\DapperSampleCRUD.pdb
